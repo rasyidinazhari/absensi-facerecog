@@ -1,0 +1,6 @@
+2026-04-18 17:15:06,892 [INFO] Sistem Absensi Face Recognition Memulai Proses Inisialisasi...
+2026-04-18 17:15:06,894 [INFO] 🔄 Memulai reload database wajah...
+2026-04-18 17:15:46,080 [INFO] ✅ Reload selesai! Total 21 wajah aktif.
+2026-04-18 17:15:46,081 [INFO] Mencoba membuka sumber kamera: 0
+2026-04-18 17:15:48,112 [INFO] ✅ Kamera siap. Memulai main loop absensi. Tekan 'Q' untuk keluar, atau 'S' untuk Pengaturan.
+2026-04-18 17:16:02,840 [INFO] ✅ Sistem dimatikan dengan aman.

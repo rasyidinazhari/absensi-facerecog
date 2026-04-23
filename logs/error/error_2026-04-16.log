@@ -1,0 +1,7 @@
+2026-04-16 14:23:44,820 [ERROR] ⚠️ API Background Gagal: name 'response' is not defined
+2026-04-16 14:29:17,014 [ERROR] ⚠️ API Background Gagal: name 'response' is not defined
+2026-04-16 14:30:30,637 [ERROR] ⚠️ Gagal membaca frame dari kamera.
+2026-04-16 14:31:43,763 [ERROR] ⚠️ API Background Gagal: name 'response' is not defined
+2026-04-16 14:32:14,404 [ERROR] ⚠️ API Background Gagal: name 'response' is not defined
+2026-04-16 14:32:26,042 [ERROR] ⚠️ API Background Gagal: name 'response' is not defined
+2026-04-16 15:33:05,277 [ERROR] ❌ Kamera gagal diinisialisasi! Cek URL RTSP atau koneksi Webcam.

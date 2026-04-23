@@ -1,0 +1,11 @@
+{
+  "message": "Active employee photos retrieved",
+  "data": [
+    {
+      "employee_code": "E001",
+      "name": "John Doe",
+      "filename": "Picture_E001_John_Doe.jpg",
+      "photo": "https://example.com/Employee_File/E001/Picture_E001_John_Doe.jpg"
+    }
+  ]
+}
